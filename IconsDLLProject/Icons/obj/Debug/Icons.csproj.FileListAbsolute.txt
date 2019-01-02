@@ -1,0 +1,16 @@
+C:\Users\Odin\source\repos\Icons\Icons\bin\Debug\Icons.dll
+C:\Users\Odin\source\repos\Icons\Icons\bin\Debug\Icons.pdb
+C:\Users\Odin\source\repos\Icons\Icons\obj\Debug\Icons.csprojAssemblyReference.cache
+C:\Users\Odin\source\repos\Icons\Icons\obj\Debug\Icons.Properties.Resources.resources
+C:\Users\Odin\source\repos\Icons\Icons\obj\Debug\Icons.csproj.GenerateResource.cache
+C:\Users\Odin\source\repos\Icons\Icons\obj\Debug\Icons.csproj.CoreCompileInputs.cache
+C:\Users\Odin\source\repos\Icons\Icons\obj\Debug\Icons.dll
+C:\Users\Odin\source\repos\Icons\Icons\obj\Debug\Icons.pdb
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\bin\Debug\Icons.dll
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\bin\Debug\Icons.pdb
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\obj\Debug\Icons.csprojAssemblyReference.cache
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\obj\Debug\Icons.Properties.Resources.resources
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\obj\Debug\Icons.csproj.GenerateResource.cache
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\obj\Debug\Icons.csproj.CoreCompileInputs.cache
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\obj\Debug\Icons.dll
+C:\Data\RealVNC_SCCMRightClickTool\IconsDLLProject\Icons\obj\Debug\Icons.pdb
