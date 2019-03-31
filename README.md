@@ -7,30 +7,31 @@ Which would have saved me a lot of time.
 
 I suggest that you use the MSI to install this.
 So The Files that Are called by the Extentions are going to
-C:\Program Files\MB_tools\RealVNC_SCCMRightClickTool
+C:\Program Files (x86)\MB_tools\RealVNC_SCCMRightClickTool
 
 
-The XML Actions Extentions will go to 
+The XML Actions Extentions will go to :
 C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\XmlStorage\Extensions\Actions\3fd01cd1-9e01-461e-92cd-94866b8d1f39
+
 C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\XmlStorage\Extensions\Actions\ed9dee86-eadd-4ac8-82a1-7234a4646e62
 
 ![alt text](https://i.imgur.com/tWD2EER.png)
 
 Content of the XML File
 ```
-<ActionDescription Class="Executable" DisplayName="RealVNC Connection" MnemonicDisplayName="RealVNC Connection" Description="Created by Maxime Bilodeau">
+<ActionDescription Class="Executable" DisplayName="VNC Connection" MnemonicDisplayName="VNC Connection" Description="Created by Maxime Bilodeau">
 		<ShowOn>
 			<string>ContextMenu</string>
 		</ShowOn>
 <ImagesDescription>
 	<ResourceAssembly>
-		<Assembly>C:\Program Files\MB_tools\RealVNC_SCCMRightClickTool\Icons.dll</Assembly>
+		<Assembly>C:\Program Files (x86)\MB_tools\TightVNC_SCCMRightClickTool\Icons.dll</Assembly>
 		<Type>Icons.Properties.Resources.resources</Type>
 	</ResourceAssembly>
-	<ImageResourceName>RealVNC</ImageResourceName>
+	<ImageResourceName>TightVNC</ImageResourceName>
 </ImagesDescription>
 		<Executable>
-			<FilePath>"C:\Program Files\MB_tools\RealVNC_RightClickTool\Start-RealVNCConnection.exe"</FilePath>
+			<FilePath>"C:\Program Files (x86)\MB_tools\TightVNC_SCCMRightClickTool\Start-VNCConnection.exe"</FilePath>
 			    <Parameters>-SiteServer "##SUB:__Server##" -ResourceID "##SUB:ResourceID##"</Parameters>
 		</Executable>
 </ActionDescription>
