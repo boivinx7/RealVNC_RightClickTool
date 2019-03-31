@@ -37,3 +37,8 @@ Content of the XML File
 </ActionDescription>
 
 ```
+
+Also, Disclaimer,
+If i'm using any Icon that I should not use, please tell me,
+I can remove it or add a reference if you want. This is 100% a free project that I did mainly for myself and tought that I would Share.
+Thanks
